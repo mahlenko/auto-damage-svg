@@ -10,7 +10,7 @@
                                 }
 
                                 .L .fill {
-                                    fill: #E5EAF0;
+                                    fill: #999999;
                                 }
 
                                 .L .fillBlack {
@@ -48,131 +48,131 @@
                                 }
 
                                 .V110 .L .selected .id_10 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V210 .L .selected .id_10 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V111 .L .selected .id_11 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V211 .L .selected .id_11 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V112 .L .selected .id_12 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V212 .L .selected .id_12 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V113 .L .selected .id_13 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V213 .L .selected .id_13 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V114 .L .selected .id_14 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V214 .L .selected .id_14 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V115 .L .selected .id_15 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V215 .L .selected .id_15 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V116 .L .selected .id_16 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V216 .L .selected .id_16 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V117 .L .selected .id_17 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V217 .L .selected .id_17 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V118 .L .selected .id_18 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V218 .L .selected .id_18 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V119 .L .selected .id_19 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V219 .L .selected .id_19 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V120 .L .selected .id_20 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V220 .L .selected .id_20 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V121 .L .selected .id_21 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V221 .L .selected .id_21 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V122 .L .selected .id_22 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V222 .L .selected .id_22 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V123 .L .selected .id_23 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V223 .L .selected .id_23 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V124 .L .selected .id_24 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V224 .L .selected .id_24 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 
                                 .V125 .L .selected .id_25 {
-                                    fill: #ffe812;
+                                    fill: yellow;
                                 }
 
                                 .V225 .L .selected .id_25 {
-                                    fill: #ff3340;
+                                    fill: red;
                                 }
 							</style>
 
